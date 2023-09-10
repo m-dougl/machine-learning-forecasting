@@ -1,1 +1,1 @@
-# machine-learning-forecasting
+Some applications of Machine Learning in time series forecasting task
